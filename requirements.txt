@@ -1,1 +1,5 @@
-pandas streamlit openpyxl xlsxwriter matplotlib
+pandas
+streamlit
+openpyxl
+xlsxwriter
+matplotlib
